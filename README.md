@@ -7,7 +7,7 @@
 
 ### how to build
 
-firstly, cd the repository: ~/monkey_language/
+firstly, cd the repository: ~/Language_Monkey/
 and than type following commands in terminal:
 
 ```
